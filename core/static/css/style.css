@@ -494,7 +494,7 @@ textarea{
   ==================================================*/
 
 #banner{
-	background: url(static/img/bg-3.jpg) fixed no-repeat;
+	background: url(../img/bg-3.jpg) fixed no-repeat;
   background-position: center;
 	background-size: cover;
 	width: 100%;
@@ -815,7 +815,7 @@ textarea{
   ==================================================*/  
 
 #lp-register{
-  background: linear-gradient(to right, rgba(0,0,0, 0.7) , rgba(0,0,0, 0.7)), url(../images/bg/bg-3.jpg) fixed no-repeat;
+  background: linear-gradient(to right, rgba(0,0,0, 0.7) , rgba(0,0,0, 0.7)), url(../img/bg-3.jpg) fixed no-repeat;
   background-size: cover;
   background-position: center;
   position: absolute;
